@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  text-align: center;
+  width: 90%;
+}
+
+.contentWrapper {
+  list-style-type: none;
+  width: 50%;
+}
